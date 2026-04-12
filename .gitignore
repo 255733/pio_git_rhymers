@@ -1,0 +1,6 @@
+#pliki kompilacyjne
+/target
+
+#pliki generowane przez IDLE
+/.idea
+*.iml
